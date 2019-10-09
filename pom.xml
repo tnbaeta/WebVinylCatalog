@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lab.illfact.javawebapps</groupId>
   <artifactId>WebVinylCatalog</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
   <name>WebVinylCatalog</name>
   <description>Web Vynil Catalog with JSP, Servlet, Eclipse, Maven and Apache Tomcat</description>
